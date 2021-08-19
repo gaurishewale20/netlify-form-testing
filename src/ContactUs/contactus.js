@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-import { NetlifyForm, Honeypot } from 'react-netlify-forms'
+//import { NetlifyForm, Honeypot } from 'react-netlify-forms'
 
 const ContactUs = () => (
   // <NetlifyForm name='Contact' action='/submit/' honeypotName='bot-field'>
